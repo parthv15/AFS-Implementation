@@ -1,0 +1,5 @@
+1. main.py is the implementation for Wolfram Alpha Simplification package.
+   1.1 Requried to install Selenium package for python. link to installation: https://selenium-python.readthedocs.io/installation.html
+2. Will require to install SageMath from official website for SageMath. OR click here (https://www.sagemath.org/download.html). 
+3. Automatically will connect to Jupyter Notebook as a kernal and Sagemath will be ready to go. 
+4. Will require to download MATLAB for matlab implementation. 
